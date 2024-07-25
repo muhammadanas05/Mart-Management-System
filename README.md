@@ -32,10 +32,6 @@ The Mart Management System is a user-friendly web-based application built using 
 3. Open the project in your preferred IDE.
 4. Run the application and access it through your web browser.
 
-## Contributors:
-- [Muhammad Anas](https://github.com/muhammadanas05)
-- [Osama Khan]
-
 ## Acknowledgements:
 - Special thanks to the Java libraries used, including AWT, Swing, and CSVReader, for their invaluable contributions to this project.
 - Online resources were consulted during the development process to enhance the functionality and efficiency of the Mart Management System.
